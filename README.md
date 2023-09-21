@@ -8,7 +8,7 @@ Below is a screenshot of the website and the link to it.
 
 [Horiseon Website Link](https://purplepeopleeated.github.io/horiseon-website/)
 
-![screenshot of Horiseon webpage](assets/images/horiseonwp.png)
+![screenshot of Horiseon webpage](assets/images/horiseonwp.PNG)
 
 ## Credits
 
